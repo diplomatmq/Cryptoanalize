@@ -1,5 +1,7 @@
 # Wallet Type Classification Demo (BABD-13)
 
+Solovej Egor
+
 This project demonstrates wallet type classification using the BABD-13 feature set and a Random Forest model. It includes a Streamlit UI, data prep scripts, training, and report figure generation.
 
 ## Requirements
